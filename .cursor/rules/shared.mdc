@@ -9,11 +9,27 @@ alwaysApply: true
 
 ## Tech Stack
 
+### Frontend
 - Astro 5
 - TypeScript 5
 - React 19
 - Tailwind 4
 - Shadcn/ui
+- React-Leaflet
+
+### Backend
+- Supabase
+  - Supabase Auth
+  - PostgreSQL
+  - Supabase Realtime
+
+### Other
+- GeoJSON
+- Axios
+
+### Hosting & CI/CD
+- Vercel/Netlify
+- GitHub Actions
 
 ## Project Structure
 
